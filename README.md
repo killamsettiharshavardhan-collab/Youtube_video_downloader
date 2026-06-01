@@ -17,7 +17,6 @@ A simple Python project to download YouTube videos using yt-dlp.
 ## Installation
 
 Install required library:
-
 pip install yt-dlp
 
 ## Run the Project
@@ -46,5 +45,5 @@ Youtube-Video-Downloader/
 
 ## Author
 
-- Venkat Sai
-- INTERN ID: CITS1589
+- Killamsetti Harsha Vardhan
+- INTERN ID: CITS2052
